@@ -1,22 +1,15 @@
 {
-    "id": "demiplane-importer",
-    "title": "Demiplane PF2e Import Tool",
-    "description": "This module adds a button to the top of player character sheets allowing them to quickly import their character from Demiplane.",
-    "author": "MarkRoebuck",
-    "authors": [
-      {
-        "name": "MarkRoebuck",
-        "url": "https://github.com/maroebuck/demiplane-importer"
-      }
+  "id": "demiplane-importer",
+  "title": "Dice Tray - An Example FVTT Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "authors": [
+    {
+    "name": "Atropos"
+    }
     ],
-    "version": "0.10.1",
-    "compatibility": {
-      "minimum": "10",
-      "verified": "10.285",
-      "maximum": "10"
-    },
-  "license": "MIT",
-  "scripts": [
-    "scripts/hello-world.js"
-  ]
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
 }
