@@ -6,6 +6,7 @@
     "authors": [
       {
         "name": "MarkRoebuck",
+        "url": "https://github.com/maroebuck/demiplane-importer"
       }
     ],
     "version": "0.10.1",
