@@ -11,5 +11,6 @@
   "compatibility": {
     "minimum": "9",
     "verified": "10"
-  }
+  },
+  "manifest": "https://github.com/maroebuck/demiplane-importer/blob/main/Data/modules/demiplane-importer/module.json"
 }
