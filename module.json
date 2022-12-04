@@ -2,11 +2,10 @@
     "id": "demiplane-importer",
     "title": "Demiplane PF2e Import Tool",
     "description": "This module adds a button to the top of player character sheets allowing them to quickly import their character from Demiplane.",
-    "author": "Mark Roebuck",
+    "author": "MarkRoebuck",
     "authors": [
       {
-        "name": "Mark Roebuck",
-        "url": "https://github.com/maroebuck/demiplane-importer"
+        "name": "MarkRoebuck",
       }
     ],
     "version": "0.10.1",
@@ -15,18 +14,8 @@
       "verified": "10.285",
       "maximum": "10"
     },
-    "compatibleCoreVersion": "10",
-    "relationship": {
-      "systems": [
-        {
-          "id": "pf2e",
-          "type": "system",
-          "manifest": "https://github.com/foundryvtt/pf2e/releases/download/latest/system.json",
-          "compatibility": {
-            "minimum": "4.0.0",
-            "verified": "4.0.5"
-          }
-        }
-      ]
-    },
-  }
+  "license": "MIT",
+  "scripts": [
+    "scripts/hello-world.js"
+  ]
+}
